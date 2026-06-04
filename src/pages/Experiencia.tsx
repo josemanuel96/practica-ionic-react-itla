@@ -36,7 +36,7 @@ const Experiencia: React.FC = () => {
             <iframe
               width="100%"
               height="250"
-              src="https://www.youtube.com/embed/videoaqui"
+              src="https://www.youtube.com/embed/_qo6zLTQ2JA"
               title="Video de experiencia personal"
               allowFullScreen
             ></iframe>
